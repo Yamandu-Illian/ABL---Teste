@@ -1,0 +1,8 @@
+{
+  "name": "abl/condominio",
+  "autoload": {
+    "psr-4": {
+      "APP\\": "app/"
+    }
+  }
+}
